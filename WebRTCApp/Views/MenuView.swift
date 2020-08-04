@@ -10,6 +10,8 @@ import SwiftUI
 
 struct MenuView: View {
     
+    var test = 10
+    
     var body: some View {
         NavigationView {
         ZStack {
